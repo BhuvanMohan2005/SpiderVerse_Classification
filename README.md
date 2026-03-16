@@ -1,5 +1,4 @@
 # SpiderVerse_Classification
-# 🕷️ Spider-Verse Character Classification
 
 🚀 **Live Demo:**
 👉 **https://spiderverseclassification.streamlit.app/**
